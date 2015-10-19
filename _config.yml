@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Personal Blog
 locale:           en_US
-url:
+url:              medinacolic.github.io
 
 
 # Jekyll configuration
@@ -26,10 +26,10 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Medina Colic
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  bio: "Check about"
+  email: medina.colic@gmail.com
   disqus-shortname:
   twitter: #username
   facebook: #username
@@ -40,9 +40,9 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: mcolic
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: MedinaColic1
   xing: #username
   instagram: #username
   lastfm: #username
