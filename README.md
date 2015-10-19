@@ -1,2 +1,1 @@
-# medinacolic
-Working on a new blog
+# Personal Blog
